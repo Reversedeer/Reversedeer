@@ -11,8 +11,8 @@
 <div align="center">
 <a href="https://github.com/Reversedeer/nonebot_plugin_chatGPT_openai">
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reversedeer&repo=nonebot_plugin_chatGPT_openai&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-<a href="https://github.com/Reversedeer/golang-gluttonous-snake">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reversedeer&repo=golang-gluttonous-snake&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+<a href="https://github.com/Reversedeer/nonebot_plugin_dog">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reversedeer&repo=nonebot_plugin_dog&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>
 
 
