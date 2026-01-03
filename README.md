@@ -45,7 +45,8 @@
 </a>
 
 <!--START_SECTION:waka-->
-**I Mostly Code in Python** 
+
+📊  **I Mostly Code in Python** 
 
 ```text
 Python                   7 repos             ████████████████░░░░░░░░░   63.64 % 
