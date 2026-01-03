@@ -31,41 +31,6 @@
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
-<!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   7 repos             ████████████████░░░░░░░░░   63.64 % 
-HTML                     2 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-C                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Go                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-```
-
-
-
-
- Last Updated on 03/01/2026 13:12:35 UTC
-<!--END_SECTION:waka-->
-
-
 📈 My stats:
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=87823528" target="_blank" style="display: block" align="center">
@@ -79,5 +44,18 @@ Go                       1 repo              ██░░░░░░░░░�
   </picture>
 </a>
 
+<!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+**I Mostly Code in Python** 
+
+```text
+Python                   7 repos             ████████████████░░░░░░░░░   63.64 % 
+HTML                     2 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+C                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Go                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+```
 
 
+ Last Updated on 03/01/2026 13:12:35 UTC
+<!--END_SECTION:waka-->
