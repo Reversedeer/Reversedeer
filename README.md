@@ -7,6 +7,21 @@
 ![:name](https://count.getloli.com/@:Reversedeer)
 ---
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/Reversedeer/Reversedeer/blob/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github.com/Reversedeer/Reversedeer/blob/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://github.com/Reversedeer/Reversedeer/blob/output/ocean.gif"
+  />
+</picture>
+
 💪 Learning: 
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white)
