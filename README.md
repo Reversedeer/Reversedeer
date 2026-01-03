@@ -45,8 +45,7 @@
 </a>
 
 <!--START_SECTION:waka-->
-
-📊  **I Mostly Code in Python** 
+**I Mostly Code in Python** 
 
 ```text
 Python                   7 repos             ████████████████░░░░░░░░░   63.64 % 
@@ -58,5 +57,5 @@ Go                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 03/01/2026 13:40:12 UTC
+ Last Updated on 03/01/2026 13:42:08 UTC
 <!--END_SECTION:waka-->
