@@ -6,15 +6,6 @@
 <p>&emsp;&emsp;学习编程语言，就像攀登一座山峰，每一步都是艰辛的，但每一步都有其必要性，每一步的积累都会让你更接近顶峰。Java、C、Python、Go语言就像是四条不同的登山线路，每一条线路都有其独特的优势，根据自己的兴趣和需要，选择一条最适合自己的登山线路，最终攀登高峰。
 </p>
 
-<!-- 比较好的开源项目卡片 -->
-
-<div align="center">
-<a href="https://github.com/Reversedeer/nonebot_plugin_dog">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reversedeer&repo=nonebot_plugin_dog&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-<a href="https://github.com/Reversedeer/nonebot_plugin_eventmonitor">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reversedeer&repo=nonebot_plugin_eventmonitor&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-</div>
-
 
 💪 正在学习: 
 
@@ -43,3 +34,4 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
+
