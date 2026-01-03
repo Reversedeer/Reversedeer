@@ -7,21 +7,6 @@
 ![:name](https://count.getloli.com/@:Reversedeer)
 ---
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github.com/Reversedeer/Reversedeer/blob/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github.com/Reversedeer/Reversedeer/blob/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://github.com/Reversedeer/Reversedeer/blob/output/ocean.gif"
-  />
-</picture>
-
 💪 Learning: 
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white)
@@ -45,6 +30,23 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+
+🧑‍💻 My contributions:
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/Reversedeer/Reversedeer/blob/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github.com/Reversedeer/Reversedeer/blob/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://github.com/Reversedeer/Reversedeer/blob/output/ocean.gif"
+  />
+</picture>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-197%20hrs%2051%20mins-blue)
