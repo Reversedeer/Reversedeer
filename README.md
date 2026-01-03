@@ -4,6 +4,7 @@
 <p>&emsp;&emsp;Life is like a cup of coffee,sometimes bitter and sometimes sweet.The key is to find balance and enjoy it no matter what comes your way.</p>
 <p>&emsp;&emsp;一片树林里分出两条路，而我选择了人迹更少的一条，从此决定了我一生的道路</p>
 
+---
 
 💪 正在学习: 
 
@@ -29,4 +30,16 @@
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
+
+
+<p href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=87823528" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=87823528&image_size=auto&color_scheme=dark"
+      width="771" height="auto">
+    <img alt="Dashboard stats of @Reversedeer"
+      src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=87823528&image_size=auto&color_scheme=light"
+      width="771" height="auto">
+  </picture>
+</p>
 
