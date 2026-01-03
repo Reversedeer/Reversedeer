@@ -32,6 +32,26 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   7 repos             ████████████████░░░░░░░░░   63.64 % 
+HTML                     2 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+C                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Go                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+```
+
+
+
+
+ Last Updated on 03/01/2026 13:47:46 UTC
 <!--END_SECTION:waka-->
 
 📈 My stats:
