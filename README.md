@@ -32,10 +32,21 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-197%20hrs%2051%20mins-blue)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
 🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
 No Activity Tracked This Week
 ```
 
@@ -51,7 +62,7 @@ Go                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 03/01/2026 13:47:46 UTC
+ Last Updated on 03/01/2026 13:51:48 UTC
 <!--END_SECTION:waka-->
 
 📈 My stats:
