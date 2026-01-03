@@ -31,6 +31,13 @@
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
+<!--START_SECTION:waka-->
+
+📊 This Week I Spent My Time On:
+
+<!--END_SECTION:waka-->
+
+
 📈 My stats:
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=87823528" target="_blank" style="display: block" align="center">
@@ -43,5 +50,6 @@
       width="771" height="auto">
   </picture>
 </a>
+
 
 
