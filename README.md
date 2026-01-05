@@ -49,19 +49,22 @@
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-197%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-197%20hrs%2051%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     29 mins             ████████████████████░░░░░   78.35 % 
+Markdown                 5 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
+Git Config               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  38 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  38 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -76,7 +79,7 @@ Go                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2026 02:29:41 UTC
+ Last Updated on 05/01/2026 02:29:18 UTC
 <!--END_SECTION:waka-->
 
 📈 My stats:
