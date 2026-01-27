@@ -55,13 +55,13 @@
 
 ```text
 💬 Programming Languages: 
-Python                   19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -76,7 +76,7 @@ Go                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 26/01/2026 02:31:05 UTC
+ Last Updated on 27/01/2026 02:26:40 UTC
 <!--END_SECTION:waka-->
 
 📈 My stats:
