@@ -55,15 +55,13 @@
 
 ```text
 💬 Programming Languages: 
-HTML                     4 mins              ███████████████░░░░░░░░░░   59.19 % 
-JavaScript               2 mins              █████████░░░░░░░░░░░░░░░░   36.01 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -78,7 +76,7 @@ Go                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 21/03/2026 02:36:33 UTC
+ Last Updated on 22/03/2026 02:53:07 UTC
 <!--END_SECTION:waka-->
 
 📈 My stats:
