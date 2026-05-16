@@ -49,6 +49,22 @@
 </picture>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-245%20hrs%2054%20mins-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    1 hr 35 mins        ████████████████████████░   95.78 % 
+HTML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+
+🔥 Editors: 
+Chrome                   1 hr 39 mins        █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  1 hr 39 mins        █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -61,7 +77,7 @@ Go                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 15/05/2026 04:05:02 UTC
+ Last Updated on 16/05/2026 03:47:56 UTC
 <!--END_SECTION:waka-->
 
 📈 My stats:
