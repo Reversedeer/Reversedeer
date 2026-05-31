@@ -49,40 +49,41 @@
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-474%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-476%20hrs%2025%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    23 hrs 39 mins      ██████████████████████░░░   87.74 % 
-HTML                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
-TOML                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
-JavaScript               47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
-CSS                      35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Other                    19 hrs 52 mins      ██████████████████████░░░   89.33 % 
+TOML                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+CSS                      30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+JavaScript               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+HTML                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 
 🔥 Editors: 
-Chrome                   24 hrs 40 mins      ███████████████████████░░   91.51 % 
-VS Code                  2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
-Claude Code              11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+Chrome                   21 hrs 1 min        ████████████████████████░   94.52 % 
+VS Code                  1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+Claude Code              12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
 💻 Operating System: 
-Windows                  26 hrs 57 mins      █████████████████████████   100.00 % 
+Windows                  22 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   8 repos             █████████████████░░░░░░░░   66.67 % 
-HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-C                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Go                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Python                   8 repos             ███████████████░░░░░░░░░░   61.54 % 
+HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+C                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Go                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 ```
 
 
 
 
- Last Updated on 30/05/2026 04:03:29 UTC
+ Last Updated on 31/05/2026 04:39:00 UTC
 <!--END_SECTION:waka-->
 
 📈 My stats:
