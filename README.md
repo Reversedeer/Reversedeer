@@ -49,21 +49,20 @@
 </picture>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-682%20hrs%2026%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    25 hrs 49 mins      ████████████████████████░   95.44 % 
-Markdown                 1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
-Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Other                    31 hrs 56 mins      ████████████████████████░   97.74 % 
+Markdown                 44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 
 🔥 Editors: 
-Chrome                   26 hrs 54 mins      █████████████████████████   99.47 % 
-VS Code                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Chrome                   32 hrs 40 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  27 hrs 3 mins       █████████████████████████   100.00 % 
+Windows                  32 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -79,7 +78,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 03:24:00 UTC
+ Last Updated on 26/07/2026 03:37:43 UTC
 <!--END_SECTION:waka-->
 
 📈 My stats:
