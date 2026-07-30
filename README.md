@@ -49,18 +49,22 @@
 </picture>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-273%20hrs%2019%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-28%20hrs%2027%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    38 hrs 30 mins      █████████████████████████   98.51 % 
-Markdown                 34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+Other                    33 hrs 8 mins       █████████████████████████   99.66 % 
+Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🔥 Editors: 
-Chrome                   39 hrs 5 mins       █████████████████████████   100.00 % 
+Chrome                   33 hrs 15 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  39 hrs 5 mins       █████████████████████████   100.00 % 
+Windows                  33 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -82,7 +86,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 29/07/2026 03:19:54 UTC
+ Last Updated on 30/07/2026 02:53:09 UTC
 <!--END_SECTION:waka-->
 
 📈 My stats:
