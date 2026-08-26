@@ -49,7 +49,7 @@
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-284%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-284%20hrs%2051%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-36%20hrs%2045%20mins-blue?style=flat)
 
@@ -57,25 +57,25 @@
 
 ```text
 💬 Programming Languages: 
-Other                    8 hrs 35 mins       █████████████████████░░░░   83.69 % 
-Python                   1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-Inno Setup               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Other                    11 hrs 11 mins      ██████████████████████░░░   86.99 % 
+Python                   1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+Inno Setup               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+Markdown                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🔥 Editors: 
-Chrome                   9 hrs 20 mins       ███████████████████████░░   91.09 % 
-Codex Vscode             37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
-VS Code                  17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+Chrome                   11 hrs 56 mins      ███████████████████████░░   92.89 % 
+Codex Vscode             37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+VS Code                  17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 
 💻 Operating System: 
-Windows                  10 hrs 15 mins      █████████████████████████   100.00 % 
+Windows                  12 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 54 mins (8.91%)
+⏱ AI Coding Time: 54 mins (7.11%)
 
 ✍️ 1,762 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -107,7 +107,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 25/08/2026 01:40:08 UTC
+ Last Updated on 26/08/2026 01:45:40 UTC
 <!--END_SECTION:waka-->
 
 📈 My stats:
