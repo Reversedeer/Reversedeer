@@ -57,41 +57,20 @@
 
 ```text
 💬 Programming Languages: 
-Other                    11 hrs 11 mins      ██████████████████████░░░   86.99 % 
-Python                   1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-Inno Setup               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-Markdown                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Other                    13 hrs 31 mins      ████████████████████████░   96.89 % 
+Python                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
 
 🔥 Editors: 
-Chrome                   11 hrs 56 mins      ███████████████████████░░   92.89 % 
-Codex Vscode             37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-VS Code                  17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Chrome                   13 hrs 57 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  12 hrs 51 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 54 mins (7.11%)
-
-✍️ 1,762 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 484,491 Input Tokens, 91,415 Output Tokens
-
-💵 $18.21 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 7 AI Prompts
-
-GPT                      1,762 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 4,603 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -107,7 +86,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 26/08/2026 01:45:40 UTC
+ Last Updated on 27/08/2026 08:48:50 UTC
 <!--END_SECTION:waka-->
 
 📈 My stats:
