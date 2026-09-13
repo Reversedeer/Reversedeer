@@ -49,66 +49,66 @@
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-291%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-293%20hrs%2047%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-42%20hrs%2059%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-44%20hrs%2049%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    27 hrs 59 mins      ███████████████████████░░   92.30 % 
-JavaScript               1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
-Markdown                 27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
-Java Properties          26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
-HTML                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+Other                    32 hrs 56 mins      ███████████████████████░░   90.87 % 
+JavaScript               1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+Markdown                 34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+HTML                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+Java Properties          12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 🔥 Editors: 
-Chrome                   28 hrs 9 mins       ███████████████████████░░   92.89 % 
-Codex Vscode             1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
-VS Code                  29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Chrome                   33 hrs 22 mins      ███████████████████████░░   92.05 % 
+Codex Vscode             2 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+VS Code                  44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 
 💻 Operating System: 
-Windows                  30 hrs 19 mins      █████████████████████████   100.00 % 
+Windows                  36 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 3 mins (6.81%)
+⏱ AI Coding Time: 2 hrs 22 mins (6.53%)
 
-✍️ 1,001 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,679 lines written by AI, 392 lines written by hand (81.07% AI-written)
 
-🔤 1,667,138 Input Tokens, 171,466 Output Tokens
+🔤 1,660,261 Input Tokens, 205,467 Output Tokens
 
-💵 $33.75 Estimated AI Cost This Week
+💵 $41.54 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 20 AI Prompts
+🧠 5 AI Sessions, 54 AI Prompts
 
-GPT                      1,006 lines         █████████████████████████   100.00 % 
+GPT                      1,692 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,135 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.69% of changed lines were hand-edited
+🤖 AI-Driven — 81.07% of written lines came from AI
+📝 Concise Prompter — average 392 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 19.77% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   8 repos             ██████████████░░░░░░░░░░░   57.14 % 
-JavaScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-C                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Python                   8 repos             █████████████░░░░░░░░░░░░   53.33 % 
+JavaScript               3 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+C                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 ```
 
 
 
 
- Last Updated on 12/09/2026 04:12:40 UTC
+ Last Updated on 13/09/2026 06:54:03 UTC
 <!--END_SECTION:waka-->
 
 📈 My stats:
