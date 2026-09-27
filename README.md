@@ -57,40 +57,40 @@
 
 ```text
 💬 Programming Languages: 
-Other                    12 hrs 32 mins      ██████████████████████░░░   89.35 % 
-Text                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
-JavaScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
-Python                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
-HTML                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+Other                    10 hrs 28 mins      ███████████████████████░░   90.87 % 
+JavaScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+Python                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+HTML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+TOML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 🔥 Editors: 
-Chrome                   12 hrs 35 mins      ██████████████████████░░░   89.68 % 
-Codex Vscode             46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
-VS Code                  40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+Chrome                   10 hrs 38 mins      ███████████████████████░░   92.23 % 
+VS Code                  40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+Codex Vscode             13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 
 💻 Operating System: 
-Windows                  14 hrs 2 mins       █████████████████████████   100.00 % 
+Windows                  11 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 46 mins (5.52%)
+⏱ AI Coding Time: 13 mins (1.92%)
 
 ✍️ 206 lines written by AI, 64 lines written by hand (76.3% AI-written)
 
-🔤 626,533 Input Tokens, 60,767 Output Tokens
+🔤 280,948 Input Tokens, 27,247 Output Tokens
 
-💵 $6.58 Estimated AI Cost This Week
+💵 $0.28 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 5 AI Prompts
+🧠 1 AI Sessions, 1 AI Prompts
 
 GPT                      212 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 76.3% of written lines came from AI
-📄 Detailed Prompter — average 514 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📝 Concise Prompter — average 393 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 24.01% of changed lines were hand-edited
 ```
 
@@ -107,7 +107,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 26/09/2026 04:36:55 UTC
+ Last Updated on 27/09/2026 04:57:05 UTC
 <!--END_SECTION:waka-->
 
 📈 My stats:
