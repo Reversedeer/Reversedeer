@@ -57,20 +57,41 @@
 
 ```text
 💬 Programming Languages: 
-Other                    11 hrs 27 mins      █████████████████████████   99.79 % 
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Other                    13 hrs 14 mins      ███████████████████████░░   90.44 % 
+JavaScript               43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+CSS                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+HTML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+Image (png)              9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 
 🔥 Editors: 
-Chrome                   11 hrs 28 mins      █████████████████████████   100.00 % 
+Chrome                   13 hrs 2 mins       ██████████████████████░░░   89.08 % 
+VS Code                  1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+Codex Vscode             24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 
 💻 Operating System: 
-Windows                  11 hrs 28 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 33 mins (10.7%)
+
+✍️ 675 lines written by AI, 2 lines written by hand (99.7% AI-written)
+
+🔤 560,765 Input Tokens, 285,694 Output Tokens
+
+💵 $0.65 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 19 AI Prompts
+
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.7% of written lines came from AI
+📝 Concise Prompter — average 125 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 1.5% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -86,7 +107,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 30/09/2026 05:11:12 UTC
+ Last Updated on 01/10/2026 05:26:05 UTC
 <!--END_SECTION:waka-->
 
 📈 My stats:
