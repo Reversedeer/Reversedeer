@@ -57,31 +57,31 @@
 
 ```text
 💬 Programming Languages: 
-Other                    11 hrs 40 mins      ██████████████████████░░░   89.29 % 
-JavaScript               43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
-CSS                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-HTML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
-Image (png)              9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+Other                    5 hrs 58 mins       ████████████████████░░░░░   81.02 % 
+JavaScript               43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+CSS                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+HTML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+Image (png)              9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
 
 🔥 Editors: 
-Chrome                   11 hrs 28 mins      ██████████████████████░░░   87.77 % 
-VS Code                  1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
-Codex Vscode             24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+Chrome                   5 hrs 58 mins       ████████████████████░░░░░   81.04 % 
+VS Code                  1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
+Codex Vscode             12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
 
 💻 Operating System: 
-Windows                  13 hrs 4 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 33 mins (11.98%)
+⏱ AI Coding Time: 1 hr 21 mins (18.52%)
 
 ✍️ 675 lines written by AI, 2 lines written by hand (99.7% AI-written)
 
 🔤 560,765 Input Tokens, 285,694 Output Tokens
 
-💵 $0.65 Estimated AI Cost This Week
+💵 $0.07 Estimated AI Cost This Week
 
 🧠 3 AI Sessions, 19 AI Prompts
 
@@ -107,7 +107,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2026 05:57:45 UTC
+ Last Updated on 07/10/2026 05:31:56 UTC
 <!--END_SECTION:waka-->
 
 📈 My stats:
