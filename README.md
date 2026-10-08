@@ -57,41 +57,19 @@
 
 ```text
 💬 Programming Languages: 
-Other                    5 hrs 58 mins       ████████████████████░░░░░   81.02 % 
-JavaScript               43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
-CSS                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
-HTML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
-Image (png)              9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+Other                    1 hr 22 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Chrome                   5 hrs 58 mins       ████████████████████░░░░░   81.04 % 
-VS Code                  1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
-Codex Vscode             12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+Chrome                   1 hr 34 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  7 hrs 22 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 22 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 21 mins (18.52%)
-
-✍️ 675 lines written by AI, 2 lines written by hand (99.7% AI-written)
-
-🔤 560,765 Input Tokens, 285,694 Output Tokens
-
-💵 $0.07 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 19 AI Prompts
-
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.7% of written lines came from AI
-📝 Concise Prompter — average 125 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 1.5% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -107,7 +85,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2026 05:31:56 UTC
+ Last Updated on 08/10/2026 05:40:16 UTC
 <!--END_SECTION:waka-->
 
 📈 My stats:
