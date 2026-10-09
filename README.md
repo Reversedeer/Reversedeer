@@ -57,19 +57,42 @@
 
 ```text
 💬 Programming Languages: 
-Other                    1 hr 22 mins        █████████████████████████   100.00 % 
+Other                    6 hrs 43 mins       █████████████████░░░░░░░░   66.01 % 
+JavaScript               1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
+Markdown                 1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+Image (png)              7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+CSS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 
 🔥 Editors: 
-Chrome                   1 hr 34 mins        █████████████████████████   100.00 % 
+Chrome                   7 hrs 8 mins        █████████████████░░░░░░░░   68.77 % 
+VS Code                  2 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   21.12 % 
+Codex Vscode             1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+Codex Exec               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Windows                  1 hr 22 mins        █████████████████████████   100.00 % 
+Windows                  10 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 3 hrs 4 mins (29.58%)
+
+✍️ 3,520 lines written by AI, 6 lines written by hand (99.83% AI-written)
+
+🔤 5,260,331 Input Tokens, 380,952 Output Tokens
+
+💵 $13.06 Estimated AI Cost This Week
+
+🧠 5 AI Sessions, 31 AI Prompts
+
+GPT                      547 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.83% of written lines came from AI
+📝 Concise Prompter — average 129 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 1.48% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -85,7 +108,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 08/10/2026 05:40:16 UTC
+ Last Updated on 09/10/2026 05:44:47 UTC
 <!--END_SECTION:waka-->
 
 📈 My stats:
