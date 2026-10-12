@@ -49,7 +49,7 @@
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-308%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-308%20hrs%2037%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-56%20hrs%207%20mins-blue?style=flat)
 
@@ -57,26 +57,26 @@
 
 ```text
 💬 Programming Languages: 
-Other                    12 hrs 8 mins       ██████████████████░░░░░░░   73.73 % 
-JavaScript               2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-Markdown                 1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-Git                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
-Image (png)              7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Other                    12 hrs 50 mins      ███████████████████░░░░░░   74.80 % 
+JavaScript               2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+Markdown                 1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+Git                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Image (png)              7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 
 🔥 Editors: 
-Chrome                   12 hrs 56 mins      ███████████████████░░░░░░   77.62 % 
-VS Code                  2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
-Codex Vscode             1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+Chrome                   13 hrs 38 mins      ████████████████████░░░░░   78.52 % 
+VS Code                  2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+Codex Vscode             1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
 Codex Exec               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Windows                  16 hrs 27 mins      █████████████████████████   100.00 % 
+Windows                  17 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 31 mins (21.12%)
+⏱ AI Coding Time: 3 hrs 31 mins (20.27%)
 
 ✍️ 3,641 lines written by AI, 6 lines written by hand (99.84% AI-written)
 
@@ -108,7 +108,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 11/10/2026 05:22:09 UTC
+ Last Updated on 12/10/2026 05:33:36 UTC
 <!--END_SECTION:waka-->
 
 📈 My stats:
