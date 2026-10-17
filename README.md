@@ -49,7 +49,7 @@
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-308%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-309%20hrs%2026%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-56%20hrs%207%20mins-blue?style=flat)
 
@@ -57,41 +57,23 @@
 
 ```text
 💬 Programming Languages: 
-Other                    14 hrs 10 mins      ██████████████████████░░░   89.47 % 
-Bash                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
-Markdown                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
-JavaScript               16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-Git                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Other                    11 hrs 29 mins      ███████████████████████░░   91.92 % 
+Bash                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+Git                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 🔥 Editors: 
-Chrome                   15 hrs 33 mins      ████████████████████████░   96.93 % 
-Codex Vscode             26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Chrome                   12 hrs 39 mins      █████████████████████████   99.70 % 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 💻 Operating System: 
-Windows                  15 hrs 50 mins      █████████████████████████   100.00 % 
+Windows                  12 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 mins (2.78%)
-
-✍️ 121 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 2,986,461 Input Tokens, 28,823 Output Tokens
-
-💵 $7.37 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 2 AI Prompts
-
-GPT                      121 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 9 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -107,7 +89,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 16/10/2026 04:09:55 UTC
+ Last Updated on 17/10/2026 03:59:35 UTC
 <!--END_SECTION:waka-->
 
 📈 My stats:
