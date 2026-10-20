@@ -57,16 +57,18 @@
 
 ```text
 💬 Programming Languages: 
-Other                    11 hrs 49 mins      ███████████████████████░░   93.61 % 
-Bash                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
-C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Other                    14 hrs 45 mins      ██████████████████████░░░   89.86 % 
+Bash                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+C                        41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 🔥 Editors: 
-Chrome                   12 hrs 49 mins      █████████████████████████   99.93 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Chrome                   16 hrs 31 mins      █████████████████████████   99.39 % 
+VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 💻 Operating System: 
-Windows                  12 hrs 37 mins      █████████████████████████   100.00 % 
+Windows                  16 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -88,7 +90,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 19/10/2026 04:16:24 UTC
+ Last Updated on 20/10/2026 04:27:43 UTC
 <!--END_SECTION:waka-->
 
 📈 My stats:
