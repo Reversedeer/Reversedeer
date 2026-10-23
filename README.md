@@ -57,24 +57,41 @@
 
 ```text
 💬 Programming Languages: 
-Other                    14 hrs 1 min        ██████████████████████░░░   89.39 % 
-Bash                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
-C                        41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Other                    11 hrs 35 mins      ███████████████████████░░   91.59 % 
+C                        41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+JavaScript               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 🔥 Editors: 
-Chrome                   15 hrs 47 mins      █████████████████████████   99.36 % 
-VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Chrome                   12 hrs 8 mins       ████████████████████████░   95.93 % 
+VS Code                  25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+Codex Vscode             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 
 💻 Operating System: 
-Windows                  15 hrs 41 mins      █████████████████████████   100.00 % 
+Windows                  12 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 24 mins (3.2%)
+
+✍️ 197 lines written by AI, 2 lines written by hand (98.99% AI-written)
+
+🔤 414,001 Input Tokens, 48,374 Output Tokens
+
+💵 $2.85 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 4 AI Prompts
+
+GPT                      197 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 98.99% of written lines came from AI
+📝 Concise Prompter — average 54 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 9.22% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -90,7 +107,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 22/10/2026 04:18:40 UTC
+ Last Updated on 23/10/2026 04:22:59 UTC
 <!--END_SECTION:waka-->
 
 📈 My stats:
