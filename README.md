@@ -57,27 +57,27 @@
 
 ```text
 💬 Programming Languages: 
-Other                    10 hrs 54 mins      ████████████████████░░░░░   78.37 % 
-JavaScript               52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
-C                        41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-Markdown                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
-Bash                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+Other                    7 hrs 54 mins       ████████████████████░░░░░   78.63 % 
+JavaScript               49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+Markdown                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+Bash                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 
 🔥 Editors: 
-Chrome                   11 hrs 22 mins      ████████████████████░░░░░   81.74 % 
-VS Code                  2 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
-Codex Vscode             31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+Chrome                   7 hrs 36 mins       ███████████████████░░░░░░   75.66 % 
+VS Code                  1 hr 55 mins        █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
+Codex Vscode             31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
 
 💻 Operating System: 
-Windows                  13 hrs 54 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 12 mins (15.85%)
+⏱ AI Coding Time: 2 hrs 12 mins (21.92%)
 
-✍️ 349 lines written by AI, 14 lines written by hand (96.14% AI-written)
+✍️ 349 lines written by AI, 12 lines written by hand (96.68% AI-written)
 
 🔤 1,625,851 Input Tokens, 157,724 Output Tokens
 
@@ -88,10 +88,10 @@ Windows                  13 hrs 54 mins      ███████████�
 GPT                      350 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.14% of written lines came from AI
+🤖 AI-Driven — 96.68% of written lines came from AI
 📝 Concise Prompter — average 38 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 13.58% of changed lines were hand-edited
+🚀 High AI Trust — 9.09% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -107,7 +107,7 @@ Go                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 26/10/2026 04:20:09 UTC
+ Last Updated on 27/10/2026 04:39:06 UTC
 <!--END_SECTION:waka-->
 
 📈 My stats:
