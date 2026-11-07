@@ -6,9 +6,6 @@ on:
   schedule:
     - cron: '0 0 * * *'
 
-permissions:
-  contents: write
-
 jobs:
   update-readme:
     name: Update Readme with Metrics
