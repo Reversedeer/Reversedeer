@@ -49,27 +49,27 @@
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-328%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-329%20hrs%2023%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    20 hrs 1 min        ███████████████░░░░░░░░░░   59.92 % 
-CSS                      3 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-HTML                     2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-Markdown                 2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
-YAML                     1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+Other                    17 hrs 22 mins      ████████████████░░░░░░░░░   64.45 % 
+CSS                      2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+YAML                     1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+Markdown                 1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+HTML                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
 
 🔥 Editors: 
-Chrome                   21 hrs 30 mins      ████████████████░░░░░░░░░   64.35 % 
-VS Code                  5 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
-Claude Code              3 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
-Codex Vscode             2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
-Copilot CLI              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Chrome                   18 hrs 55 mins      ██████████████████░░░░░░░   70.20 % 
+VS Code                  4 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
+Codex Vscode             2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
+Claude Code              1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+Copilot CLI              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 💻 Operating System: 
-Windows                  33 hrs 26 mins      █████████████████████████   100.00 % 
+Windows                  26 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -85,7 +85,7 @@ Go                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 08/11/2026 05:39:56 UTC
+ Last Updated on 09/11/2026 05:49:48 UTC
 <!--END_SECTION:waka-->
 
 📈 My stats:
