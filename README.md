@@ -49,20 +49,25 @@
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-329%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-329%20hrs%2046%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    9 hrs 47 mins       █████████████████████████   99.73 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Other                    11 hrs 30 mins      ████████████████████████░   96.51 % 
+HTML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+YAML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-Chrome                   9 hrs 48 mins       █████████████████████████   100.00 % 
+Chrome                   11 hrs 36 mins      ████████████████████████░   97.28 % 
+VS Code                  18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 💻 Operating System: 
-Windows                  9 hrs 48 mins       █████████████████████████   100.00 % 
+Windows                  11 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -78,7 +83,7 @@ Go                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 18/11/2026 06:57:54 UTC
+ Last Updated on 19/11/2026 06:58:25 UTC
 <!--END_SECTION:waka-->
 
 📈 My stats:
