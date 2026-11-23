@@ -49,25 +49,25 @@
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-331%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-332%20hrs%2052%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    16 hrs 45 mins      █████████████████████░░░░   83.38 % 
-JavaScript               1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
-CSS                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-YAML                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
-HTML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+Other                    22 hrs 39 mins      ████████████████████░░░░░   80.09 % 
+JavaScript               3 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+CSS                      1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+HTML                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+YAML                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 
 🔥 Editors: 
-Chrome                   16 hrs 38 mins      █████████████████████░░░░   82.78 % 
-VS Code                  1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
-Codex Vscode             1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+Chrome                   23 hrs 5 mins       ████████████████████░░░░░   81.61 % 
+VS Code                  2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+Codex Vscode             2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
 
 💻 Operating System: 
-Windows                  20 hrs 6 mins       █████████████████████████   100.00 % 
+Windows                  28 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -83,7 +83,7 @@ Go                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 22/11/2026 06:15:21 UTC
+ Last Updated on 23/11/2026 07:06:43 UTC
 <!--END_SECTION:waka-->
 
 📈 My stats:
