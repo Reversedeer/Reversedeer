@@ -55,19 +55,19 @@
 
 ```text
 💬 Programming Languages: 
-Other                    26 hrs 27 mins      ████████████████████░░░░░   78.73 % 
-JavaScript               3 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Markdown                 1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-CSS                      1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-JSON                     30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+Other                    25 hrs 52 mins      ███████████████████░░░░░░   77.44 % 
+JavaScript               3 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
+Markdown                 1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+CSS                      1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+JSON                     30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
 
 🔥 Editors: 
-Chrome                   27 hrs 10 mins      ████████████████████░░░░░   80.88 % 
-VS Code                  3 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-Codex Vscode             2 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
+Chrome                   26 hrs 23 mins      ████████████████████░░░░░   79.00 % 
+VS Code                  4 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+Codex Vscode             2 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
 
 💻 Operating System: 
-Windows                  33 hrs 35 mins      █████████████████████████   100.00 % 
+Windows                  33 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -83,7 +83,7 @@ Go                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 26/11/2026 07:53:25 UTC
+ Last Updated on 27/11/2026 07:54:11 UTC
 <!--END_SECTION:waka-->
 
 📈 My stats:
